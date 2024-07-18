@@ -1,0 +1,19 @@
+{
+  
+
+  "login": "Giriş Yap",
+
+  "password":"Şifre",
+  "editTodo": "Edit your task",
+   "delete": "Sil",
+   "addTesk":"Görev Ekle",
+   "addTag": "Etiket Ekle",
+   "searchTask": "Görev veya kategori arayın",
+    "editTask": "Görevi Düzenle",
+    "editTag": "Etiketi Düzenle",
+    "upadate ": "Güncelle",
+    "edit": "Düzenle",
+    "add": "Ekle"
+
+
+}

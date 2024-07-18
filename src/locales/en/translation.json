@@ -1,0 +1,19 @@
+{
+
+ 
+  "login": "Login",
+  "password": "Password",
+  "editTodo": "Edit your task",
+  "delete": "Delete",
+  "addTesk":"Add Task",
+  "addTag": "Add Tag",
+  "searchTask": "Search for a task or a category",
+  "editTask": "Edit Task",
+  "editTag": "Edit Tag",
+  "upadate ": "Update",
+  "edit": "Edit",
+  "add": "Add"
+  
+
+
+}
